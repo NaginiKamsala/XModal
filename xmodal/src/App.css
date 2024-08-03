@@ -1,0 +1,17 @@
+/* App.css */
+.app {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+.openbtn {
+  background-color: orchid;
+  height: 50px;
+  width: 100px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
